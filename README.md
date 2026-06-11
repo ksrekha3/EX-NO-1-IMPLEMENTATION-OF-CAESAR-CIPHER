@@ -56,7 +56,10 @@ int main()
 }
 ```
 ## OUTPUT:
-
+Enter text: HELLO
+Enter key: 3
+Encrypted: KHOOR
+Decrypted: HELLO
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
